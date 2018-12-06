@@ -2,6 +2,8 @@
 
 IONIC 3.0 with angular + typescript
 
+![mobile-coptic](https://github.com/nbadiganti/coptic-date-mobile/blob/master/screenshots/Screen%20Shot%202018-12-06%20at%205.26.06%20PM.png)
+
 ## Adding to your project 
 
 1. Run `ionic generate provider coptic-date` in your ionic project. It will generate provider file under src folder
